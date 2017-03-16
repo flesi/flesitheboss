@@ -19,7 +19,7 @@ do
 	9.Salir
 	0.ACTUALIZAR
 	
-		10. AGRADECIMIENTOS!!
+		10. CREDITOS!!
 
 	## Alpha ##################################### ver.1.9 ##
 	"
@@ -759,11 +759,13 @@ do
 				################## # NFS # ######################
 
 				1. Servidor NFS
+					instalar servidor
+					compartir directorio
+						[permisos directorios]
 				2. Cliente NFS
-				
-				2. Instalar Clientes NFS
-				3. Compartir Directorio
-				4. Montar Directorio
+					instalar cliente
+					montar directorio compartido
+
 
 				##################################################
 				"
